@@ -57,16 +57,16 @@ Here are some screenshots of the game:
 ![Name Entry](screenshots/Name_Entry.png)
 
 ### Main Menu
-![Main Menu](screenshots/screenshot1.png)
+![Main Menu](screenshots/Main_Menu.png)
 
 ### Rules of the Game
-![Rules of the Game](screenshots/screenshot2.png)
+![Rules of the Game](screenshots/Rules_of_the_Game.png)
 
 ### Game Play
-![Game Play](screenshots/screenshot2.png)
+![Game Play](screenshots/GamePlay.png)
 
 ### Winning Screen
-![Winning Screen](screenshots/screenshot3.png)
+![Winning Screen](screenshots/Winning_Screen.png)
 
 ## License
 

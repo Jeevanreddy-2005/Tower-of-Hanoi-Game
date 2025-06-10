@@ -54,7 +54,7 @@ To run this game on your local machine, follow these steps:
 Here are some screenshots of the game:
 
 ### Name Entry
-![Name Entry](screenshots/screenshot1.png)
+![Name Entry](screenshots/NameEntry.png)
 
 ### Main Menu
 ![Main Menu](screenshots/screenshot1.png)
